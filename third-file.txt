@@ -1,3 +1,5 @@
 Third file
 
 new line in this file
+
+this is a modification from the feature2 branch
